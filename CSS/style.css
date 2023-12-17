@@ -1,0 +1,105 @@
+.div-1 {
+  height: 75px;
+  background-color: rgb(22, 22, 45);
+  text-align: center;
+  font-size: 24px;
+  word-spacing: 20px;
+}
+.fon {
+  color: white;
+  text-decoration: none;
+}
+.but-1 {
+  background-color: #04aa6d;
+  color: white;
+  height: 40px;
+}
+.div-2 {
+  background-color: rgb(222, 240, 222);
+  font-size: 13px;
+}
+.but {
+  background-color: black;
+  height: 40px;
+  color: white;
+}
+.satr {
+  text-indent: 10px;
+}
+.butcss {
+  background-color: #04aa6d;
+  color: white;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 24px;
+}
+.b2 {
+  right: 5px;
+  position: absolute;
+}
+.container {
+  position: relative;
+}
+.satr1 {
+  padding: 10px;
+  background-color: #d9eee1;
+}
+.examples {
+  font-size: 24px;
+  text-indent: 10px;
+}
+.qiymat {
+  font-size: 15px;
+  padding: 10px;
+}
+.background {
+  background-color: #e7e9eb;
+  padding: 10px;
+}
+.bbbb {
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+  padding: 8px;
+}
+.aaa {
+  background-color: white;
+  padding: 4px;
+  text-indent: 10px;
+}
+.ttt {
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+}
+.code {
+  font-size: 13px;
+}
+.run {
+  text-indent: 16px;
+}
+.orqa-fon {
+  background-color: #ffffcc;
+  padding: 5px 10px;
+}
+.python {
+  font-size: 28px;
+  text-indent: 10px;
+}
+.video {
+  background-color: black;
+  color: white;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 24px;
+}
+.kkk {
+  background-color: #2196f3;
+  color: white;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 24px;
+}
